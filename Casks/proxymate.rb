@@ -1,6 +1,6 @@
 cask "proxymate" do
-  version "0.9.52"
-  sha256 "6670f2d66ad5e50bb84d79c6a41a4bb03abcf6185613a21be0b845fbda81b8c8"
+  version "0.9.53"
+  sha256 "b185708c366bbfbfa3e6b777a3466450f283ee5e63cfa4df73ad7048368fd9b7"
 
   url "https://github.com/fabriziosalmi/proxymate/releases/download/v#{version}/Proxymate-#{version}.dmg",
       verified: "github.com/fabriziosalmi/proxymate/"
